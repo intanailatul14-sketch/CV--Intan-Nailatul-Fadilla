@@ -1,4 +1,5 @@
 <html lang="id">
+    <img src="profile.jpeg" width="180">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
